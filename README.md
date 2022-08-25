@@ -1,1 +1,1 @@
-Team Fortress 2 configuration files
+Team Fortress 2 configuration files.
